@@ -1,0 +1,2 @@
+Django>=3
+django-shouty-templates==0.1.4
